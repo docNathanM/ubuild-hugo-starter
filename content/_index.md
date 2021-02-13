@@ -9,12 +9,16 @@ page_sections:
   navigation:
   - link_url: "/"
     link_text: Home
+    open_in_new_tab: false
   - link_url: "#"
     link_text: Features
+    open_in_new_tab: false
   - link_url: "#"
     link_text: Pricing
+    open_in_new_tab: false
   - link_url: "#"
     link_text: Team
+    open_in_new_tab: false
   cta:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     link_text: Download
