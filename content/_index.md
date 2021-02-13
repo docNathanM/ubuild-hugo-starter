@@ -25,7 +25,7 @@ page_sections:
     open_in_new_tab: true
 - template: detail-content
   block: text-1
-  headline: ''
+  headline: Headline
   content: ''
 
 ---
