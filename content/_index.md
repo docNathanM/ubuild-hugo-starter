@@ -23,6 +23,10 @@ page_sections:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     link_text: Download
     open_in_new_tab: true
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 
 ---
 Hello
